@@ -1,0 +1,29 @@
+header h1 {
+  color: red;
+  background: black;
+}
+
+h2 {
+  border: 1px solid green;
+}
+
+table h2 {
+  border: 2px dotted blue;
+}
+
+#myButton {
+  color: white;
+  background-color: blue;
+}
+
+.pretty {
+  color: pink;
+}
+
+section > p {
+  color: red;
+}
+
+section h3 + p + p {
+  font-size: 30px;
+}
