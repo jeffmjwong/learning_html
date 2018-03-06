@@ -1,6 +1,9 @@
 header h1 {
   color: red;
   background: black;
+  font-size: 3rem;
+  width: 50%;
+  font-family: "foo", "Helvetica", "Arial", sans-serif;
 }
 
 h2 {
@@ -16,7 +19,7 @@ table h2 {
   background-color: blue;
 }
 
-.pretty {
+p.pretty {
   color: pink;
 }
 
